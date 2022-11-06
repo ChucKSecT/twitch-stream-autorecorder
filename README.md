@@ -5,7 +5,7 @@ It allows you to automatically record a twitch stream that just goes live.
 - [Streamlink (Windows Installer)](https://github.com/streamlink/windows-builds/releases)
 
 ## Setting Up
-Edit file with your desired path location and the channel name you want to record
+Edit file with your desired path location and the twitch channel URL you want to record
 
 Example:
 ```bash
