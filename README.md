@@ -9,7 +9,7 @@ Edit file with your desired path location and the channel name you want to recor
 
 Example:
 ```bash
-streamlink --retry-streams 90 --output "C:\recordings\{author}-{title}-{time:%H%M%S%d%m%Y}.ts" https://twitch.tv/channelname best
+streamlink --retry-streams 90 --output "C:\recordings\{author}-{title}.ts" https://twitch.tv/channelname best
 ```
 
 ## Running
