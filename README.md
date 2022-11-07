@@ -1,5 +1,5 @@
 # Twitch Stream AutoRecorder
-It allows you to automatically record a twitch stream that just goes live.
+It allows you to automatically record a twitch stream when it goes live.
 
 ## Requirement
 - [Streamlink (Windows Installer)](https://github.com/streamlink/windows-builds/releases)
